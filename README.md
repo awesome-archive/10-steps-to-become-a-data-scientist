@@ -233,9 +233,9 @@ If you have any problem and question to run notebooks please open an issue here 
 
 for most of the my notebooks you need **dataset** as input.
 
-To use the **correct data**, please **download** the data set from  the **Kaggle** site and put it in your notebook folder.
+To use the **correct data**, please **download** the data set from  the **Kaggle** and put it in your notebook folder.
 
-**Mj Bhamnai**
+**Mj Bahmani**
 
 # Citation
 If you use my code in your research, please cite this project.
@@ -247,6 +247,5 @@ If you use my code in your research, please cite this project.
   year =         {2018}
 }
 ```
-
  **Have Fun!**
 
